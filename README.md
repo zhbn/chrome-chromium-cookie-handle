@@ -1,0 +1,1 @@
+# chromium-78-cookie-handle
