@@ -130,4 +130,4 @@ void Init(v8::Local<v8::Object> exports) {
   
 }
 
-NODE_MODULE(hello, Init)
+NODE_MODULE(cookie_handle, Init)
