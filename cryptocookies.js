@@ -1,1 +1,5 @@
-module.exports = require('./build/Release/cryptcookies');
+
+
+const cryptcookies = require('./build/Release/cryptcookies');
+
+module.exports = cryptcookies;
