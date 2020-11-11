@@ -1,5 +1,5 @@
 
 
-const cryptcookies = require('./build/Release/cryptcookies');
+const cryptocookies = require('./build/Release/cryptocookies');
 
-module.exports = cryptcookies;
+module.exports = cryptocookies;
