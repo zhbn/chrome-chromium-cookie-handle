@@ -1,6 +1,6 @@
 {
-  "name": "cookie-handle",
-  "version": "0.0.1",
+  "name": "cryptcookies",
+  "version": "0.0.2",
   "description": "Node.js Addons to decode chromium 78 cookie",
   "main": "test.js",
   "private": true,
